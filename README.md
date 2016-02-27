@@ -3,7 +3,7 @@ Course Project for Getting and Cleaning Data Coursera Course
 Instructions
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
-Review criterialess 
+## Review criterialess 
 The submitted data set is tidy.
 The Github repo contains the required scripts.
 GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
