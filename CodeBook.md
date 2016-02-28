@@ -31,6 +31,6 @@ While all frequence variables are preceeded with "Frequency"
 The data frame "final_data" conrtains the the detailed data of each mean and standard deviation for each original observation.
 The data from "avg_data" contains the summary mean for all metrics groubed by subject and activity.
 
-#R Script:
+##R Script:
 The R script file s broken out into 5 section correcsponding to each of the 5 steps in the instructions for this project.
 
