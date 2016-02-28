@@ -69,7 +69,6 @@ for (i in 1:length(colnames(final_data))){
   colnames(final_data)[i] <- gsub("\\(\\)","",colnames(final_data)[i])
   colnames(final_data)[i] <- gsub("^f","Frequency-",colnames(final_data)[i])
   colnames(final_data)[i] <- gsub("^t","Time-",colnames(final_data)[i])
-  
 }
 
 
