@@ -42,6 +42,7 @@ final_data: final "tidy" data of all observations after limiting the columns to 
 avg_data: the final "tidy" data of averages when the data is grouped by subject and activity.  This data is also included as the file "tidyData.txt" in github
 
 The list of variables in the final tidyData.txt file are as follows:
+
 "subjectid"                          
 "activity"                          
 "Time-BodyAcc-mean-X"               
