@@ -79,6 +79,6 @@ for (i in 1:length(colnames(final_data))){
 avg_data <- ddply(final_data, .(subjectid, activity), function(x) colMeans(x[, 3:length(colnames(final_data))]))
 
 ## write out the find "tidy" summary file
-write.table(avg_data, './tidyData.txt',row.names=TRUE,sep='\t')
+write.table(avg_data, './tidyData.txt',row.names=FALSE,sep='\t')
 
 
